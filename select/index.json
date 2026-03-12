@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ずっとラブソング",
+  "base_artist": "Vaundy",
+  "createdAt": "2026-03-12T14:18:30.254166Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ずっとラブソング",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_ずっとラブソング_Vaundy.txt"
+    }
+  ]
+}
